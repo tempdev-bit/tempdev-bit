@@ -7,7 +7,7 @@ I love building games, tinkering with old tools, and learning new languages ever
 ### 🛠️ Stuff I Use:
 - Godot
 - Python, Ruby, Nim, Zig, C etc
-- VSCODIUM USER
+- VScodium && Linux
 ---
 
 🌱 Currently exploring: full-stack dev, procgen in gamedev  
