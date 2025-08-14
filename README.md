@@ -11,5 +11,7 @@ I love building games, tinkering with old tools, and learning new languages ever
 ---
 
 🌱 Currently exploring: full-stack dev, procgen in gamedev  
-📫 Reach out: @solarieo on ig
-💽 Blog (W.I.P): [blog](www.solarquest.bearblog.dev)
+
+📫 Reach out: @solarieo on ig 
+
+💽 Blog (W.I.P): [solar.quest](www.solarquest.bearblog.dev)
